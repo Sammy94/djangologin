@@ -1,0 +1,26 @@
+{
+  "name": "soumya",
+  "authors": [
+    "soumya"
+  ],
+  "description": "bowerjson",
+  "main": "index.html",
+  "keywords": [
+    "abcd"
+  ],
+  "license": "\"MIT\"",
+  "homepage": "index.html",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "showdown": "^1.8.6",
+    "bower": "*",
+    "jquery": "^3.3.1"
+  }
+}
